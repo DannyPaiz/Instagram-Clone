@@ -1,0 +1,45 @@
+/**
+====== LANDING PAGE ====== index.html
+* div/container to hold entire webpage
+    form or input - for login
+        input-texts and button with login text
+
+    * bonus media queries for responsiveness.
+
+
+====== FEED PAGE ====== feed.html
+2 navigations top and bottom. It is a header 
+
+create cards for each element (img, usernames and captions)
+    could be json
+
+    display as a column (flex?)
+
+    this is without animations, js
+
+and footer navigation (sections)
+
+
+====== ACCOUNT PAGE ====== account.html
+navbar
+user information in the header, maybe an h3 or p under the nav
+display images wrapped in a row.
+
+js animations from feed page, to click profile / name
+
+and open account.html. 
+
+user = {
+    name: ''
+    img: [
+        name:
+        date:
+        file:
+        likes:
+        tags:
+        shares
+    ]
+}
+
+
+*/
