@@ -1,24 +1,3 @@
-/**
-====== LANDING PAGE ====== index.html
-* div/container to hold entire webpage
-    form or input - for login
-        input-texts and button with login text
-
-    * bonus media queries for responsiveness.
-
-
-====== FEED PAGE ====== feed.html
-2 navigations top and bottom. It is a header 
-
-create cards for each element (img, usernames and captions)
-    could be json
-
-    display as a column (flex?)
-
-    this is without animations, js
-
-and footer navigation (sections)
-
 
 ====== ACCOUNT PAGE ====== account.html
 navbar
