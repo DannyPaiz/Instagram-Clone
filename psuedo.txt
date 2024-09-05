@@ -1,0 +1,24 @@
+
+====== ACCOUNT PAGE ====== account.html
+navbar
+user information in the header, maybe an h3 or p under the nav
+display images wrapped in a row.
+
+js animations from feed page, to click profile / name
+
+and open account.html. 
+
+user = {
+    name: ''
+    img: [
+        name:
+        date:
+        file:
+        likes:
+        tags:
+        shares
+    ]
+}
+
+
+*/

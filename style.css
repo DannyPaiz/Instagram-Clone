@@ -1,0 +1,46 @@
+body {
+    background-color: tan;
+    margin: 0;
+}
+
+.bg {
+    background-color: aqua;
+    padding: 1rem;
+}
+
+.container {
+    background-color: red;
+    padding: 3rem;
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: yellow;
+    padding: 1rem;
+}
+
+.nav-links {
+    display: flex;
+    list-style-type: none;
+    justify-content:space-between;
+}
+
+.content {
+    background-color: gray;
+    margin: 0 5rem;
+}
+
+.card {
+    background-color: pink;
+    padding: 25px;
+    margin: 0 1rem;
+}
+
+.resize {
+    height: 100px;
+    width: 100px;
+}
+
+.icon-wrap {
+    
+}
